@@ -1,0 +1,13 @@
+Finding the shortest path of maze
+
+1. Dijkstra's algorithm
+Dijkstra’s algorithm solves the single-source shortest-paths problem on a directed weighted graph G = (V, E), where all the edges are non-negative (i.e., w(u, v) ≥ 0 for each edge (u, v) Є E).
+The complexity of this algorithm is fully dependent on the implementation of Extract-Min function. If extract min function is implemented using linear search, the complexity of this algorithm is O(V2 + E).
+
+2. Bellman Ford Algorithm
+This algorithm solves the single source shortest path problem of a directed graph G = (V, E) in which the edge weights may be negative.
+Bellman-Ford algorithm runs in O(V, E) time.
+
+Graph tool used for this project:
+https://creately.com/
+
