@@ -8,6 +8,5 @@ The complexity of this algorithm is fully dependent on the implementation of Ext
 This algorithm solves the single source shortest path problem of a directed graph G = (V, E) in which the edge weights may be negative.
 Bellman-Ford algorithm runs in O(V, E) time.
 
-Graph tool used for this project:
+Graph tool can used for this project:
 https://creately.com/
-
